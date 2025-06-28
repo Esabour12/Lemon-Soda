@@ -1,4 +1,4 @@
-img {
+img { 
 width: 200px;
 }
 body{
@@ -6,6 +6,6 @@ body{
     text-align: center;
     font-family: 'Monaco';
     text-align: center;
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New'
 }    
 
